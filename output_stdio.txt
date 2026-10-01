@@ -1,3 +1,0 @@
-Hello Linux
-This is Practical 9
-File Copy using C
